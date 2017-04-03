@@ -55,7 +55,8 @@
     }
 
     .package-card img {
-        height: 260px;
+        height: 400px;
+        width: 900px;
     }
 
     .package-header {
